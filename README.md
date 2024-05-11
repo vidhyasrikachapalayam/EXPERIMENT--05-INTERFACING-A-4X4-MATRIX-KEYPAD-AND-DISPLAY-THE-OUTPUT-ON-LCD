@@ -171,7 +171,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
  
 
 ## STM 32 CUBE PROGRAM :
-```#include "main.h"
+```
+#include "main.h"
 #include <stdbool.h>
 #include "lcd.h"
 
@@ -424,11 +425,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output screen shots of proteus  :
- ![image](https://github.com/vidhyasrikachapalayam/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119477817/076ac54f-e0f1-4fd5-a324-3c48ead19f91)
+![image](https://github.com/vidhyasrikachapalayam/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119477817/7a6922c2-2640-4e1e-b530-de50f195798f)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![image](https://github.com/vidhyasrikachapalayam/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119477817/6f1fa9e8-728f-4c63-9fe9-2956fa5d8b5b)
+![image](https://github.com/vidhyasrikachapalayam/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119477817/0e645637-aa45-404f-9e0e-fa9589126fac)
 
  
 ## Result :
